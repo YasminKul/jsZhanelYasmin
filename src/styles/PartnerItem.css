@@ -1,0 +1,39 @@
+.partner-item {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 220px;  
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .partner-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  
+  .partner-item h3 {
+    color: #333;
+    margin-top: 15px;
+    font-size: 20px;  
+  }
+  
+  
+  .partner-item p {
+    color: #555;
+    font-size: 16px;  
+  }
+  
+  .partner-item ul {
+    padding-left: 0;
+    list-style-type: none;
+  }
+  
+  .partner-item li {
+    color: #777;
+    margin: 10px 0;  
+    font-size: 16px; 
+  }
+  

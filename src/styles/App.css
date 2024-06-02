@@ -1,0 +1,30 @@
+.App {
+  min-height: 100vh;
+  display: flex; 
+  flex-direction: column; 
+}
+
+header, main, footer {
+  flex: 1; 
+}
+
+
+h1, h2 {
+  color: #333;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+
+
+
+
+

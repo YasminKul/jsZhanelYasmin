@@ -1,0 +1,39 @@
+.dishes-menu {
+  padding: 20px;
+}
+
+.dishes-menu h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.dish-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.dish-item {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.dish-item h3 {
+  color: #333;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.dish-item p {
+  color: #555;
+  font-size: 16px;
+}
+
+.dish-item .price {
+  color: #ff5733;
+  font-weight: bold;
+}
+

@@ -1,0 +1,23 @@
+.drink-item {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 200px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+.drink-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.drink-item h3 {
+  color: #333;
+  margin-top: 10px;
+}
+
+.drink-item p {
+  color: #555;
+}
